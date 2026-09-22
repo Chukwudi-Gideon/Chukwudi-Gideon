@@ -2,7 +2,7 @@
 
 I'm currently a **front-end developer and curious learner** who enjoys building things for the web and figuring out how things work.
 
-I work primarily with **JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS**, while continuously exploring new technologies and improving my fundamentals.
+I currently work primarily with **JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS**, while continuously exploring new technologies and improving my fundamentals.
 
 But technology isn't all I'm interested in. I'm curious about **philosophy, music, creativity, ideas, people, and the world around me.**
 
