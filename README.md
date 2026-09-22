@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://i.ibb.co/sp5xgQwH/Chat-GPT-Image-Sep-22-2026-10-04-57-PM.png"
+    src="https://i.ibb.co/bgjyHzmg/Whats-App-Image-2026-09-22-at-22-40-09.jpg"
     alt="Chukwudi Gideon GitHub header"
     width="100%"
   />
@@ -19,7 +19,7 @@
   <strong>Front end Developer • Curious Learner • Billie Eillish, Future, Jeriq and other songs lover • CS Student</strong>
 </p>
 
-I'm a **front-end developer and curious learner** who enjoys building things for the web and figuring out how things work.
+I'm currently a **front-end developer and a curiousity driven learner** who enjoys building things for the web and figuring out how things work.
 
 I currently work primarily with **JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS**, while continuously exploring new technologies and improving my fundamentals.
 
