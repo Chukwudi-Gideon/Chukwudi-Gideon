@@ -16,12 +16,12 @@
 <h1 align="center">👋 Hi, I'm Chukwudi Gideon</h1>
 
 <p align="center">
-  <strong>Front end Developer • Curious Learner • Billie Eillish, Future, Jeriq and other songs lover • CS Student</strong>
+  <strong>Web Developer • Curious Learner • Billie Eillish, Future, Jeriq and other songs lover • CS Student</strong>
 </p>
 
-I'm currently a **front-end developer and a curiousity driven learner** who enjoys building things for the web and figuring out how things work.
+I'm currently ** working with websites and I have got a curiousity for learning anything related to software** I enjoy building things for the web and figuring out how things work under the hood.
 
-I currently work primarily with **JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS**, while continuously exploring new technologies and improving my fundamentals.
+Currently I work primarily with **JavaScript, TypeScript, React, Next.js, HTML, CSS, and Tailwind CSS**, while continuously exploring new technologies and improving my fundamentals.
 
 But technology isn't all I'm interested in. I'm curious about **philosophy, music, creativity, ideas, people, and the world around me.**
 
